@@ -3,6 +3,7 @@
 The proposed system can be used to automate the workflow of leave applications and their approvals. There are features like applying for leave, cancellation of leave,  approval of leave, auto salary reduction etc. in this system.
 
 **Modules of the software:**
+
 **Login Registration:** Admin provides username and password to the employee. He also has the right to add or modify the given username and password of the employee. Using this username and password, an employee can login to the system.
 
 **Reset Password:**  There is also the facility to reset employee password based on the Username entered incase the employee forgets his/her password.
